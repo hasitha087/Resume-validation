@@ -1,0 +1,1 @@
+Put sample training non-CV resumes(in PDF format) here.

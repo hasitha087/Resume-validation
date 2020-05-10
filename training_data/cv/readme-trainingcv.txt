@@ -1,0 +1,1 @@
+Put sample training CV resumes(in PDF format) here.
