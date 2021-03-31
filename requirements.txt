@@ -10,7 +10,7 @@ extract-msg==0.23.1
 IMAPClient==2.1.0
 joblib==0.14.1
 kiwisolver==1.2.0
-lxml==4.5.0
+lxml==4.6.3
 matplotlib==3.2.1
 nltk==3.5
 numpy==1.18.4
