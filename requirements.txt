@@ -12,7 +12,7 @@ joblib==0.14.1
 kiwisolver==1.2.0
 lxml==4.5.0
 matplotlib==3.2.1
-nltk==3.5
+nltk==3.6.6
 numpy==1.18.4
 odfpy==1.4.1
 olefile==0.46
